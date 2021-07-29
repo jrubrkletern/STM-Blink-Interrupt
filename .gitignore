@@ -1,0 +1,12 @@
+
+.pio/build/
+
+.vscode/
+
+include/README
+
+lib/README
+
+platformio.ini
+
+test/README
